@@ -1,0 +1,12 @@
+===========================================================
+SECOND FILE IS ABOUT TO BE PUSHED FOR THIS PROCESS
+==================================================
+
+1 - git status
+2 - git add ./<filename>
+3 - git commit -m ("-m" to add comment)
+4 - git log 
+5 - git push (push the local changes to the remote repository)
+6 - git pull (for update/rebase the local repository)
+
+The End
